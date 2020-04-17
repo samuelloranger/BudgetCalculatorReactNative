@@ -1,0 +1,17 @@
+{
+  "name": "BudgetCalculatorApp",
+  "displayName": "BudgetCalculatorApp",
+  "expo": {
+    "name": "BudgetCalculatorApp",
+    "slug": "BudgetCalculatorApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
